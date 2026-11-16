@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: VersoRP
+  structure:
+    - type: space
+      key: space-1
+      title: VersoRP
+      path: versorp
+      default: true
+      content:
+        directory: ./versorp
+        language: es
