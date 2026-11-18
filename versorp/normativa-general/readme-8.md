@@ -30,6 +30,8 @@ layout:
 
 * Para ir a fabricar una facción debe acudir con mínimo <mark style="color:green;">**4 miembros**</mark>
 * En caso que haya 1 facción fabricando podrá llegar otra a intervenir y abrir un enfrentamiento siempre y cuando no esté la <mark style="color:green;">**PD/EJC**</mark> primero. <mark style="color:orange;">(Si ya hay 2 facciones ilegales dentro en enfrentamiento</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**ninguna faccion**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">podrá intervenir)</mark>
+* Todas las facciones, legales e ilegales, deben respetar los <mark style="color:orange;">15 minutos de fabricación</mark> en rancho y la fábrica.
+* Únicamente las facciones legales pueden utilizar el “sello” en rancho y la fábrica, una vez transcurridos los <mark style="color:orange;">15 minutos de fabricación</mark>.
 
 {% hint style="info" %}
 **Entornos Obligatorios**
