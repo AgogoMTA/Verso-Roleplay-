@@ -50,4 +50,5 @@ Si una facción acude sin haber enviado un entorno con anterioridad <mark style=
 1. Todo vehículo que esté dentro de las fabricas <mark style="color:red;">**será eliminado sin previo aviso y sin importar valor o modelo.**</mark>
 2. Durante algún enfrentamiento dentro de la fabrica <mark style="color:red;">**no se permite el uso del sistema de fabricación**</mark>
 3. Está estricamente prohibido acudir a las fabricas <mark style="color:red;">**con la intención de unicamente hacer DM**</mark>, para acudir deben tener el objetivo especifico de utilizar el sistema de fabricación.
-4. Está prohibido estrictamente el <mark style="color:green;">**Spawn Kill**</mark> en estos lugares, es decir que cualquier persona que **se posicione con intenciones de disparar cerca del punto de spawn** del interior **será sanciona.**
+4. Está prohibido que ingresen más participantes una vez el rol <mark style="color:red;">**ya esté iniciando o en curso.**</mark>
+5. Está prohibido estrictamente el <mark style="color:green;">**Spawn Kill**</mark> en estos lugares, es decir que cualquier persona que **se posicione con intenciones de disparar cerca del punto de spawn** del interior **será sanciona.**
