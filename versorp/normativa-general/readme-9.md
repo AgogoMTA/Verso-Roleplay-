@@ -32,7 +32,9 @@ Las **Zonas Seguras** son áreas protegidas para la convivencia entre jugadores.
 4. Está prohibido provocar a otros jugadores, incitar peleas o generar disturbios.
 5. Está prohibido bloquear intencionalmente los accesos o las salidas.
 6. La policía o el ejército podrá requisar o procesar a un jugador si existe una sospecha justificada o un delito en flagrancia.
-7. **Solo se considerarán Zonas Seguras las áreas que el sistema señale con un aviso en la parte inferior de la pantalla al ingresar.** <mark style="color:red;">Las reglas aplican hasta salir del perímetro, aunque el aviso desaparezca.</mark>
+7.  Se consideran **Zonas Seguras las áreas que el sistema señale con un aviso en la parte inferior de la pantalla al ingresar, así como las HQ o bases de facciones legales**, aunque no cuenten con dicho aviso. Estas últimas están protegidas por su **rol de entorno**, que contempla la presencia de personal de seguridad, vigilancia y cámaras, aunque no estén representados físicamente en el juego. Esta protección comprende sus instalaciones y recintos propios, sin extenderse a las calles ni a las zonas aledañas.
+
+    <mark style="color:red;">Las reglas aplican hasta salir del perímetro protegido, aunque el aviso desaparezca.</mark>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
